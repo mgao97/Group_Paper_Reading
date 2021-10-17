@@ -2,7 +2,7 @@
 
 记录小组文献阅读notes（具体格式不作要求，需要包括组内分享时间、文献信息和notes）
 
-【第一周----2021.10.6 高敏】
+**【第一周----2021.10.6 高敏】**
 
 Chang, Serina, et al. "Mobility network models of COVID-19 explain inequities and inform reopening." Nature 589.7840 (2021): 82-87.
 
